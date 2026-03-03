@@ -4,18 +4,24 @@
    ============================================================ */
 
 :root {
-    --bg: #02070c;
-    --bg-dark: #010307;
-    --panel: rgba(0, 255, 255, 0.04);
-    --glass: rgba(0, 255, 255, 0.08);
-    --border: rgba(0, 255, 255, 0.18);
-    --accent: #00eaff;
-    --accent2: #5ef6ff;
-    --text: #dffaff;
-    --muted: #7fd6e8;
-    --danger: #ff5f69;
-    --card-glow: 0 0 18px rgba(0, 255, 255, 0.14);
-    --neon-glow: 0 0 16px rgba(0, 255, 255, 0.65);
+    --bg: #0b0f1a;
+    --bg-dark: #070a12;
+
+    --panel: rgba(139, 92, 246, 0.05);
+    --glass: rgba(139, 92, 246, 0.08);
+    --border: rgba(139, 92, 246, 0.25);
+
+    --accent: #8b5cf6;      /* Purple */
+    --accent2: #3b82f6;     /* Blue */
+
+    --text: #e5e7eb;
+    --muted: #9ca3af;
+
+    --danger: #ef4444;
+
+    --card-glow: 0 0 18px rgba(139, 92, 246, 0.25);
+    --neon-glow: 0 0 16px rgba(59, 130, 246, 0.65);
+
     --font: 'Inter', sans-serif;
 }
 
